@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  [![Spotify](https://spotify-now-playing-eme-hache.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+  [![Spotify](https://spotify-now-playing-eme-hache.vercel.app/api/spotify)](https://open.spotify.com/user/luisalfonsodsg)
   
 </div>
 
